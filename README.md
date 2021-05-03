@@ -2,11 +2,11 @@
 To help companies that want to hire temporary development talent, idealTeam will create an app that offers up-to-date list of candidates based on their hard skills, and allow companies to hire them based on their availability for the next 8 weeks. The app will be completed in 9 months, and will compatible with web browsers and Android, and iOS mobiles. 
 
 This main goal follows the SMART standard:
-Specific: The team knows what they're building: a web & mobile app that helps companies procure software development services.
-Measureable: The results will display list of candidates and availability for the next eight weeks.
-Attainable: Our team has the knowledge, time to build the app. We are in the process to hire a IT team to support the platform.
-Relevant: Our company is a start-up that is centered around helping connect companies with the best developers for their needs.
-Time-bound: The goal includes a 9-month timeframe to gather requiremnets, develop and put this app in production. 
+1. Specific: The team knows what they're building: a web & mobile app that helps companies procure software development services.
+1. Measureable: The results will display list of candidates and availability for the next eight weeks.
+1. Attainable: Our team has the knowledge, time to build the app. We are in the process to hire a IT team to support the platform.
+1. Relevant: Our company is a start-up that is centered around helping connect companies with the best developers for their needs.
+1. Time-bound: The goal includes a 9-month timeframe to gather requiremnets, develop and put this app in production. 
 
 # Key Results
 - Improve the time to procure software development services by 50% between companies and software developers around the world.
