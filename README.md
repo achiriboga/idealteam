@@ -21,3 +21,6 @@ This main goal follows the SMART standard:
 - App will include diferent types of software development services like Frontend, Backend, DBA, Architects, Business Analysts, Scrum Masters, Project Managers and Product Owners. 
 - The timeline will include work for the next eight weeks of work for each project team, including hired services.
 - The search will filter searches for talend based on previous work, availability, skills and reviews.
+
+
+https://thedigitalprojectmanager.com/how-write-statement-of-work-complete-guide/
